@@ -1,3 +1,5 @@
+print('Hello from OpenCode!')
+
 def greetings(name):
     return f"Hello, {name}!"
 
