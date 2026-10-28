@@ -20,6 +20,16 @@ build/
 .env
 .env.*
 
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.npmrc
+.pypirc
+
 # OS
 .DS_Store
 Thumbs.db
